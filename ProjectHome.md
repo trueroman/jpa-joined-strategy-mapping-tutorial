@@ -1,0 +1,1 @@
+JPA Joined strategy mapping tutorial
